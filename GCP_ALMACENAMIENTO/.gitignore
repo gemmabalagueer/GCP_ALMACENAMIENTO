@@ -1,3 +1,4 @@
+#hace que la carpeta dentro de terraform que se llama .terraform/ sea invisible para git.
 .terraform/
 *.tfstate
 *.tfstate.backup
